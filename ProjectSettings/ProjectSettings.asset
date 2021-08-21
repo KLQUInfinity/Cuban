@@ -159,7 +159,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.KLQUInfinity.Cuban
   buildNumber: {}
-  AndroidBundleVersionCode: 5
+  AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
@@ -245,10 +245,10 @@ PlayerSettings:
   clonedFromGUID: 56e7a2d3a00f33d44bdd161b773c35b5
   templatePackageId: com.unity.template.3d@1.0.0
   templateDefaultScene: Assets/Scenes/SampleScene.unity
-  AndroidTargetArchitectures: 7
+  AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: D:/projects/Unity  projects/GitHubProjects/Cuban/Assets/Keystore/user.keystore
+  AndroidKeystoreName: D:/Unity_Projects/Github_Projects/Cuban/Assets/Keystore/user.keystore
   AndroidKeyaliasName: klqu
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1
