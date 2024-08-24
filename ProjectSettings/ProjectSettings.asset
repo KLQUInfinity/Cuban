@@ -141,7 +141,7 @@ PlayerSettings:
   vulkanEnableLateAcquireNextImage: 0
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
-  bundleVersion: 0.1
+  bundleVersion: 0.0.1
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -165,14 +165,15 @@ PlayerSettings:
   androidMinAspectRatio: 1
   applicationIdentifier:
     Android: com.KLQUInfinity.Cuban
+    iPhone: com.KLQUInfinity.Cuban
   buildNumber:
     Bratwurst: 0
     Standalone: 0
     iPhone: 0
     tvOS: 0
   overrideDefaultApplicationIdentifier: 0
-  AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 23
+  AndroidBundleVersionCode: 2
+  AndroidMinSdkVersion: 33
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   aotOptions: 
@@ -253,7 +254,7 @@ PlayerSettings:
   clonedFromGUID: 56e7a2d3a00f33d44bdd161b773c35b5
   templatePackageId: com.unity.template.3d@1.0.0
   templateDefaultScene: Assets/Scenes/SampleScene.unity
-  useCustomMainManifest: 0
+  useCustomMainManifest: 1
   useCustomLauncherManifest: 0
   useCustomMainGradleTemplate: 0
   useCustomLauncherGradleManifest: 0
@@ -265,8 +266,8 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: D:/Unity_Projects/Github_Projects/Cuban/Assets/Keystore/user.keystore
-  AndroidKeyaliasName: klqu
+  AndroidKeystoreName: '{inproject}: Assets/Keystore/user.keystore'
+  AndroidKeyaliasName: klquinfinity
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidEnableArm64MTE: 0
   AndroidBuildApkPerCpuArchitecture: 0
